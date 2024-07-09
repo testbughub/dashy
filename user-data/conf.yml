@@ -11,6 +11,10 @@ pageInfo:
 
 # Optional app settings and configuration
 appConfig:
+  auth:
+    users:
+    - user: test
+      hash: 9572d7f4e812df12cd8c0d26e7308864c33cbb51b004cbe962ad545bc377a4a2
   theme: colorful
 
 # Main content - An array of sections, each containing an array of items
