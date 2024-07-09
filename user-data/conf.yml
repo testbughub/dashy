@@ -14,7 +14,7 @@ appConfig:
   auth:
     users:
     - user: test
-      hash: 9572d7f4e812df12cd8c0d26e7308864c33cbb51b004cbe962ad545bc377a4a2
+      hash: ECD71870D1963316A97E3AC3408C9835AD8CF0F3C1BC703527C30265534F75AE
   theme: colorful
 
 # Main content - An array of sections, each containing an array of items
