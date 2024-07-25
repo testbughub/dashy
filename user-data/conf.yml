@@ -21,9 +21,6 @@ pageInfo:
   description: ''
   navLinks: []
   footerText: ''
-pages:
-  - name: Dashy
-    path: 'main.yml'
 sections:
   - name: Local
     icon: far fa-home
@@ -91,9 +88,9 @@ sections:
       - title: The Pirate Bay
         icon: tpb.png
         url: https://thepiratebay.org/
-      - title: MagnetDL
-        icon: magnet.png
-        url: https://www.magnetdl.com/
+      - title: EXT Torrents
+        icon: exttorrents.png
+        url: https://extranet.torrentbay.st/
       - title: Stream
         subItems:
         - title: Movie-Web
