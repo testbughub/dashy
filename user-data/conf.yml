@@ -93,9 +93,9 @@ sections:
         url: https://extranet.torrentbay.st/
       - title: Stream
         subItems:
-        - title: Movie-Web
-          icon: fas fa-film
-          url: https://movie-web.app/
+        - title: Braflix
+          icon: braflix.png
+          url: https://braflix.video
         - title: Soaper
           icon: far fa-tv-retro
           url: https://soaper.tv/
