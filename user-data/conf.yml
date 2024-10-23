@@ -34,9 +34,9 @@ sections:
       - title: Node-Red Dashboard
         icon: node-red.png
         url: http://192.168.0.99:1880/ui/
-      - title: Syncthing
-        icon: Syncthing.png
-        url: http://192.168.0.99:8384/
+      - title: Sonarr
+        icon: sonarr.png
+        url: http://192.168.0.99:8989/
       - title: OctoPi
         subItems:
           - title: OctoPrint
