@@ -90,7 +90,7 @@ sections:
         url: https://thepiratebay.org/
       - title: EXT Torrents
         icon: exttorrents.png
-        url: https://extranet.torrentbay.st/
+        url: https://ext.to/
       - title: Stream
         subItems:
         - title: Braflix
