@@ -34,9 +34,9 @@ sections:
       - title: Node-Red Dashboard
         icon: node-red.png
         url: http://192.168.0.99:1880/ui/
-      - title: Sonarr
-        icon: sonarr.png
-        url: http://192.168.0.99:8989/
+      - title: Organizr
+        icon: organizr.png
+        url: http://192.168.0.99:8067/
       - title: OctoPi
         subItems:
           - title: OctoPrint
