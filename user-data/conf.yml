@@ -93,9 +93,9 @@ sections:
         url: https://ext.to/
       - title: Stream
         subItems:
-        - title: Freek
+        - title: MoviesJoy
           icon: braflix.png
-          url: https://freek.to/
+          url: https://moviesjoy.is/
         - title: Soaper
           icon: far fa-tv-retro
           url: https://soaper.tv/
