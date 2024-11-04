@@ -93,9 +93,9 @@ sections:
         url: https://ext.to/
       - title: Stream
         subItems:
-        - title: MoviesJoy
+        - title: Netplay
           icon: braflix.png
-          url: https://moviesjoy.is/
+          url: https://netplayz.ru/
         - title: Soaper
           icon: far fa-tv-retro
           url: https://soaper.tv/
