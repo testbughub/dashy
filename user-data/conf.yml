@@ -82,6 +82,9 @@ sections:
       - title: qBittorrent
         icon: qBittorrent.png
         url: http://192.168.0.99:8113/
+      - title: TorrentLeech
+        icon: torrentleech.png
+        url: https://torrentgalaxy.to/
       - title: TorrentGalaxy
         icon: tg.png
         url: https://torrentgalaxy.to/
@@ -142,9 +145,9 @@ sections:
       - title: Linkding
         icon: linkding.png
         url: http://192.168.0.99:9090/
-      - title: Proton
-        icon: proton.png
-        url: https://mail.proton.me/u/0/inbox
       - title: Gmail
         icon: gmail.png
         url: https://mail.google.com/
+      - title: Proton
+        icon: proton.png
+        url: https://mail.proton.me/u/0/inbox
